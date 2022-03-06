@@ -70,6 +70,6 @@ The program should be designed as follows:
    01 ++++++++++++++++++++++++++++++++++++ 11C - 25C <br />
    02 ++++++++++++++++++++++++++++++ 08C - 22Cw <br />
 
-**This code was developed by Muhammad Mustafa Asif and was forked was Muhammad Fahad Ashrafs Repository**.
+**This code was written by Muhammad Mustafa Asif**.
 
 
