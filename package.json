@@ -1,0 +1,38 @@
+{
+  "name": "the-lab",
+  "version": "1.0.0",
+  "description": "the-lab ======= The purpose of this repo is to help the team lead and his team member in training and evaluating newly hired developers especially fresh grads. Code written by newbies for training/practice will be checked in here and reviewed by their respective team leads. All feedback must be in written on gitlab.",
+  "main": "helperFunctions.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node weatherman.js ./weatherfiles"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://gitlab.arbisoft.com/mustafa.asif/the-lab.git"
+  },
+  "keywords": [],
+  "author": "Mustafa Asif <mustafa.asif@arbisoft.com>",
+  "license": "Arbisoft",
+  "dependencies": {
+    "colors": "^1.4.0"
+  },
+  "type": "module",
+  "devDependencies": {
+    "eslint": "^6.8.0",
+    "eslint-config-airbnb": "^18.2.1",
+    "eslint-config-node": "^4.1.0",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-import": "^2.23.4",
+    "eslint-plugin-jsx-a11y": "^6.4.1",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-prettier": "^3.4.0",
+    "eslint-plugin-react": "^7.24.0",
+    "eslint-plugin-react-hooks": "^1.7.0",
+    "nodemon": "^2.0.12",
+    "prettier": "^2.3.2"
+  }
+}
