@@ -9,9 +9,10 @@ The program should be designed as follows:
 1. Define a data structure for holding each weather reading.
 2. Define a class for parsing the files and populating the readings data structure with correct data types.
 3. Define a data structure for holding the calculations results.
-4. Define a class for computing the calculations given the readings data structure. 5. Define a class for creating the reports given the results data structure.
-5. Define main for assembling the above and running the program.
-6. ES6 and airbnb conventions should be followed in the code.
+4. Define a class for computing the calculations given the readings data structure. 
+5. Define a class for creating the reports given the results data structure.
+6. Define main for assembling the above and running the program.
+7. ES6 and airbnb conventions should be followed in the code.
 
 ## Getting Started
 
